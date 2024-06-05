@@ -1,1 +1,1 @@
-# JavaScript_challenge_2024
+# Belly_Button_challenge_2024
